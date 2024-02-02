@@ -1,0 +1,24 @@
+/* src/Calculator.css */
+.calculator-card {
+    background-color: #f8f9fa; /* Light gray background */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  .btn-light {
+    background-color: #e9ecef !important; /* Light gray button background */
+    color: #212529 !important; /* Dark button text color */
+  }
+  
+  .btn-primary {
+    background-color: #007bff !important; /* Primary color for operators */
+  }
+  
+  .btn-danger {
+    background-color: #dc3545 !important; /* Danger color for Clear button */
+  }
+  
+  .btn-equal {
+    background-color: #28a745 !important; /* Success color for Equals button */
+    color: #fff !important; /* White text for Equals button */
+  }
+  
